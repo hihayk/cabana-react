@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucastobrazil/cabana-react.git"
+    "url": "git+https://github.com/lucastobrazil/cabana-react.git"
   },
   "author": "Lucas Arundell <lucas.arundell@gmail.com>",
   "license": "ISC",
