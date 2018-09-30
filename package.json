@@ -1,0 +1,49 @@
+{
+  "name": "cabana-react",
+  "version": "0.1.0",
+  "description": "an example component library built with React!",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "babel lib -d build",
+    "build:watch": "babel lib -w -d build",
+    "lint": "eslint lib/**; exit 0",
+    "lint:watch": "esw -w lib/**",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucastobrazil/cabana-react.git"
+  },
+  "author": "Lucas Arundell <lucas.arundell@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucastobrazil/cabana-react/issues"
+  },
+  "homepage": "https://github.com/lucastobrazil/cabana-react#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^5.6.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-watch": "^4.0.2",
+    "featherico": "^1.10.0",
+    "polished": "^2.2.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-simple-tooltip": "^2.3.2",
+    "styled-components": "^4.0.0-beta.9",
+    "styled-system": "^3.1.6"
+  },
+  "peerDependencies": {
+    "react-simple-tooltip": "^2.3.2",
+    "styled-components": "^4.0.0-beta.9",
+    "styled-system": "^3.1.6"
+  }
+}
