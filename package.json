@@ -1,7 +1,7 @@
 {
     "name": "cabana-react",
-    "version": "0.1.0",
-    "description": "an example component library built with React!",
+    "version": "0.0.1",
+    "description": "Cabana Design System built in React!",
     "main": "build/index.js",
     "scripts": {
         "build": "babel lib -d build",
