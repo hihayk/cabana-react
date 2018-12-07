@@ -141,7 +141,7 @@
       'react/jsx-indent': ['warn', 4],
       'react/jsx-indent-props': ['warn', 4],
       'react/jsx-key': 'warn',
-      'react/jsx-max-props-per-line': 'warn',
+    //   'react/jsx-max-props-per-line': 'warn',
       'react/jsx-no-bind': ['warn', {'allowArrowFunctions': true}],
       'react/jsx-no-comment-textnodes': 'warn',
       'react/jsx-no-duplicate-props': ['warn', { ignoreCase: true }],
@@ -173,7 +173,7 @@
       'react/void-dom-elements-no-children': 'warn',
   // https://github.com/evcohen/eslint-plugin-jsx-a11y/tree/master/docs/rules
       'jsx-a11y/aria-role': 'warn',
-      'jsx-a11y/img-has-alt': 'warn',
+      'jsx-a11y/alt-text': 'warn',
       'jsx-a11y/img-redundant-alt': 'warn',
       'jsx-a11y/no-access-key': 'warn'
     }
