@@ -19,11 +19,12 @@ Work in progress build of the [Cabana Design System](https://cabanadesignsystem.
 - react-modal
 - react-simple-tooltip
 
-# Todo
-- Build up components
-- "Convert" to an installable npm package
-- Build demo page that consumes library
-- a11y
+# Alpha Todo
+[x] Build up components
+[x] "Convert" to an installable npm package
+[x] Build demo page that consumes library
+[ ] a11y
+[ ] Cards - decide on negative images 
 
 ## Tech issues to overcome
 - styled-system applying props as attrs (check out system-components)
