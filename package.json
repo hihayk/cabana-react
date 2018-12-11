@@ -1,6 +1,6 @@
 {
     "name": "cabana-react",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Cabana Design System built in React!",
     "main": "build/index.js",
     "scripts": {
@@ -22,6 +22,7 @@
     "homepage": "https://github.com/lucastobrazil/cabana-react#readme",
     "dependencies": {
         "@rebass/components": "^4.0.0-1",
+        "cabanaico": "0.0.1-development",
         "prop-types": "^15.6.2",
         "react": "^16.5.2",
         "react-dom": "^16.5.2",
