@@ -1,7 +1,9 @@
 Work in progress build of the [Cabana Design System](https://cabanadesignsystem.com/) in React
 
 # Take part in the Alpha Projects
-- [See project doc](https://docs.google.com/document/d/1-l3p8BzwHaukl3mhh8bSb5C1hVjb7MNuWFtS4xEfOj4/edit?usp=sharing)
+We want to test the durability of the React version of Cabana. To do this, we want to try and implement (ie. code) something designed with the Sketch library, and see how the process feels. 
+
+[You can take part here](https://docs.google.com/document/d/1-l3p8BzwHaukl3mhh8bSb5C1hVjb7MNuWFtS4xEfOj4/edit?usp=sharing), and share in the glory of Cabana-React!
 
 <div align="center">
   <a href="https://cabana-react-docs.herokuapp.com/#/">
