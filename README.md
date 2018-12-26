@@ -1,12 +1,5 @@
-Work in progress build of the [Cabana Design System](https://cabanadesignsystem.com/) in React
-
-# Take part in the Alpha Projects
-We want to test the durability of the React version of Cabana. To do this, we want to try and implement (ie. code) something designed with the Sketch library, and see how the process feels. 
-
-[You can take part here](https://docs.google.com/document/d/1-l3p8BzwHaukl3mhh8bSb5C1hVjb7MNuWFtS4xEfOj4/edit?usp=sharing), and share in the glory of Cabana-React!
-
 <div align="center">
-  <a href="https://cabana-react-docs.herokuapp.com/#/">
+  <a href="https://cabana-react-docs.herokuapp.com">
     <img alt="styled-components" src="https://i.imgur.com/2oFxHhj.png" height="100"  />
   </a>
 </div>
@@ -15,6 +8,7 @@ We want to test the durability of the React version of Cabana. To do this, we wa
 
 <div align="center">
   <strong>A design system built especially for both Sketch and React.</strong>
+  This is an Alpha build of the [Cabana Design System](https://cabanadesignsystem.com) in React
   <br />
   <br />
 
@@ -23,6 +17,14 @@ We want to test the durability of the React version of Cabana. To do this, we wa
 
 <br />
 <br />
+
+
+
+# Take part in the Alpha Projects
+We want to test the durability of the React version of Cabana. To do this, we want to try and implement (ie. code) something designed with the Sketch library, and see how the process feels. 
+
+[You can take part here](https://docs.google.com/document/d/1-l3p8BzwHaukl3mhh8bSb5C1hVjb7MNuWFtS4xEfOj4/edit?usp=sharing), and share in the glory of Cabana-React!
+
 
 ## [Docs](https://cabana-react-docs.herokuapp.com)
 
