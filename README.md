@@ -8,7 +8,7 @@
   <br />
   This is an Alpha build of the <a href="https://cabanadesignsystem.com">Cabana Design System</a> in React
   <br />
-
+  <br />
   <a href="https://spectrum.chat/cabana-designsystem"><img src="https://withspectrum.github.io/badge/badge.svg" alt="Join the   community on Spectrum"></a>
 </div>
 
