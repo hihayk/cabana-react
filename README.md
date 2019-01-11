@@ -1,13 +1,10 @@
 <div align="center">
   <a href="https://cabana-react-docs.herokuapp.com">
-    <img alt="styled-components" src="https://i.imgur.com/2oFxHhj.png" width="514"  />
+    <img alt="cabana react logo" src="https://i.imgur.com/2oFxHhj.png" width="514px"  />
   </a>
 </div>
-
-<div align="center">
-  <strong>A design system built especially for both Sketch and React.</strong>
-  This is an Alpha build of the [Cabana Design System](https://cabanadesignsystem.com) in React
-  <br />
+<div align="center" style="text-align: center;">
+  <strong>A design system built especially for both Sketch and React.</strong> This is an Alpha build of the <a href="https://cabanadesignsystem.com">Cabana Design System</a> in React
   <br />
 
   <a href="https://spectrum.chat/cabana-designsystem"><img src="https://withspectrum.github.io/badge/badge.svg" alt="Join the   community on Spectrum"></a>
@@ -42,7 +39,7 @@ const App = () => (
 
 This is what you'll see in your browser:
 
-<div align="center">
+<div align="center"
     <img alt="Screenshot of the above code ran in a browser" src="https://i.imgur.com/EJMmI3y.png" height="62" />
 </div>
 
