@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://cabana-react-docs.herokuapp.com">
-    <img alt="styled-components" src="https://i.imgur.com/2oFxHhj.png" height="100"  />
+    <img alt="styled-components" src="https://i.imgur.com/2oFxHhj.png" width="514"  />
   </a>
 </div>
 
