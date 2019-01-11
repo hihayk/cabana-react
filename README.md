@@ -4,7 +4,9 @@
   </a>
 </div>
 <div align="center" style="text-align: center;">
-  <strong>A design system built especially for both Sketch and React.</strong> This is an Alpha build of the <a href="https://cabanadesignsystem.com">Cabana Design System</a> in React
+  <strong>A design system built especially for both Sketch and React.</strong> 
+  <br />
+  This is an Alpha build of the <a href="https://cabanadesignsystem.com">Cabana Design System</a> in React
   <br />
 
   <a href="https://spectrum.chat/cabana-designsystem"><img src="https://withspectrum.github.io/badge/badge.svg" alt="Join the   community on Spectrum"></a>
