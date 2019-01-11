@@ -4,23 +4,18 @@
   </a>
 </div>
 
-<br />
-
 <div align="center">
   <strong>A design system built especially for both Sketch and React.</strong>
   This is an Alpha build of the [Cabana Design System](https://cabanadesignsystem.com) in React
   <br />
   <br />
 
-<a href="https://spectrum.chat/cabana-designsystem"><img src="https://withspectrum.github.io/badge/badge.svg" alt="Join the community on Spectrum"></a>
+  <a href="https://spectrum.chat/cabana-designsystem"><img src="https://withspectrum.github.io/badge/badge.svg" alt="Join the   community on Spectrum"></a>
 </div>
 
 <br />
-<br />
 
-
-
-# Take part in the Alpha Projects
+## Take part in the Alpha Projects
 We want to test the durability of the React version of Cabana. To do this, we want to try and implement (ie. code) something designed with the Sketch library, and see how the process feels. 
 
 [You can take part here](https://docs.google.com/document/d/1-l3p8BzwHaukl3mhh8bSb5C1hVjb7MNuWFtS4xEfOj4/edit?usp=sharing), and share in the glory of Cabana-React!
