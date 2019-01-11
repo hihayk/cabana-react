@@ -45,6 +45,9 @@ This is what you'll see in your browser:
     <img alt="Screenshot of the above code ran in a browser" src="https://i.imgur.com/EJMmI3y.png" height="62" />
 </div>
 
+## Theme File Starter
+Use [this theme file](https://github.com/lucastobrazil/cabana-react-docs/blob/master/src/theme.js) as a starting point to configure your Cabana config. 
+
 ## The Cabana Sketch Library
 
 Cabana-React is the React counterpart of the Cabana Sketch Library. Check out the [Cabana Design System](https://cabanadesignsystem.com) website for a more in-depth rundown of how the design system works, and for access to the library.
