@@ -14,15 +14,9 @@
 
 <br />
 
-## Take part in the Alpha Projects
-We want to test the durability of the React version of Cabana. To do this, we want to try and implement (ie. code) something designed with the Sketch library, and see how the process feels. 
-
-[You can take part here](https://docs.google.com/document/d/1-l3p8BzwHaukl3mhh8bSb5C1hVjb7MNuWFtS4xEfOj4/edit?usp=sharing), and share in the glory of Cabana-React!
-
-
 ## [Docs](https://cabana-react-docs.herokuapp.com)
 
-**See the documentation at [cabana-react-docs.herokuapp.com](https://cabana-react-docs.herokuapp.com)** for more information about using `cabana-react`!
+**See the documentation at [cabana-react-docs.herokuapp.com](https://cabana-react-docs.herokuapp.com)** for more information about using `cabana-react`! NOTE: The docs site may take ~30sec to load as it's running on a free Heroku instance and may need some time to spin up. Enjoy a quiet mental break 
 
 ## Example: Your first Cabana component
 
