@@ -14,9 +14,9 @@
 
 <br />
 
-## [Docs](https://cabana-react-docs.herokuapp.com)
+## [Docs](https://lucastobrazil.github.io/cabana-react-docs-gh)
 
-**See the documentation at [cabana-react-docs.herokuapp.com](https://cabana-react-docs.herokuapp.com)** for more information about using `cabana-react`! NOTE: The docs site may take ~30sec to load as it's running on a free Heroku instance and may need some time to spin up. Enjoy a quiet mental break 
+**[See the documentation](https://lucastobrazil.github.io/cabana-react-docs-gh)** for more information about using `cabana-react`! NOTE: The docs site may take ~30sec to load as it's running on a free Heroku instance and may need some time to spin up. Enjoy a quiet mental break 
 
 ## Example: Your first Cabana component
 
