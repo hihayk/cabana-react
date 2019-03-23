@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://cabana-react-docs.herokuapp.com">
+  <a href="https://lucastobrazil.github.io/cabana-react-docs-gh">
     <img alt="cabana react logo" src="https://i.imgur.com/2oFxHhj.png" width="514px"  />
   </a>
 </div>
@@ -16,7 +16,7 @@
 
 ## [Docs](https://lucastobrazil.github.io/cabana-react-docs-gh)
 
-**[See the documentation](https://lucastobrazil.github.io/cabana-react-docs-gh)** for more information about using `cabana-react`! NOTE: The docs site may take ~30sec to load as it's running on a free Heroku instance and may need some time to spin up. Enjoy a quiet mental break 
+**[See the documentation](https://lucastobrazil.github.io/cabana-react-docs-gh)** for more information about using `cabana-react`! 
 
 ## Example: Your first Cabana component
 
