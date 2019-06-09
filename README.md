@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://lucastobrazil.github.io/cabana-react-docs-gh">
-    <img alt="cabana react logo" src="https://i.imgur.com/2oFxHhj.png" width="514px"  />
+    <img alt="cabana react logo" src="https://i.imgur.com/O5QqcPL.png" width="405px"  />
   </a>
 </div>
 <div align="center" style="text-align: center;">
