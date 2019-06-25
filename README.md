@@ -1,10 +1,3 @@
-<div align="center" style="text-align: center;">
-  <strong></strong> 
-  <br />
-  
-  <br />
-</div>
-
 # ADAPT Design System
 As the design lab are using the Cabana Design System as the starting point for ADAPT, this repo is building upon [Cabana-React](https://lucastobrazil.github.io/cabana-react-docs-gh) project. This repo will grow/change a lot now it's in the ADAPT team.
 
@@ -26,7 +19,7 @@ yarn run lint
 ```
 Note: The linter is not clear of warnings (yet).
 
-# Roadmap / path forward.
+# Roadmap / path forward:
 Now that ADAPT will take over this repo, the following topics should be addressed:
 
 1. *Storybook* - currently there is no documentation for this design system. For Cabana, the idea was to have a separate project that acts like a real-world app that uses the `npm` package... This way the components could be tested in real life. Some discussion have already been had around implementing storybook with this project, or perhaps a documentation site for the ADAPT DS that follows the same concept as above.
