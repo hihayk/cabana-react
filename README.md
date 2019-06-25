@@ -1,55 +1,37 @@
-<div align="center">
-  <a href="https://lucastobrazil.github.io/cabana-react-docs-gh">
-    <img alt="cabana react logo" src="https://i.imgur.com/O5QqcPL.png" width="405px"  />
-  </a>
-</div>
 <div align="center" style="text-align: center;">
-  <strong>A design system built especially for both Sketch and React.</strong> 
+  <strong></strong> 
   <br />
-  This is an Alpha build of the <a href="https://cabanadesignsystem.com">Cabana Design System</a> in React
+  
   <br />
-  <br />
-  <a href="https://spectrum.chat/cabana-designsystem"><img src="https://withspectrum.github.io/badge/badge.svg" alt="Join the   community on Spectrum"></a>
 </div>
 
-<br />
+# ADAPT Design System
+As the design lab are using the Cabana Design System as the starting point for ADAPT, this repo is building upon [Cabana-React](https://lucastobrazil.github.io/cabana-react-docs-gh) project. This repo will grow/change a lot now it's in the ADAPT team.
 
-## [Docs](https://lucastobrazil.github.io/cabana-react-docs-gh)
-
-**[See the documentation](https://lucastobrazil.github.io/cabana-react-docs-gh)** for more information about using `cabana-react`! 
-
-## Example: Your first Cabana component
-
-<!-- prettier-ignore -->
-```JSX
-import { ThemeProvider } from 'styled-components';
-import { Button } from 'cabana-react';
-import myTheme from './theme.js';
-
-const App = () => (
-    <ThemeProvider theme={myTheme}>
-        <Button bg="primary" color="white">Hi!</Button>
-    </ThemeProvider>
-);
+# Getting Started
+1. Install dependencies
+```
+yarn install
 ```
 
-This is what you'll see in your browser:
+2. To actively develop components, you can run 
+```
+yarn run build:watch
+```
+The build will re-run every time you save changes. Alternatively you can run `yarn run build` each time you wish to build.
 
-<div align="center"
-    <img alt="Screenshot of the above code ran in a browser" src="https://i.imgur.com/EJMmI3y.png" height="62" />
-</div>
+3. Linting
+```
+yarn run lint
+```
+Note: The linter is not clear of warnings (yet).
 
-## Theme File Starter
-Use [this theme file](https://github.com/lucastobrazil/cabana-react-docs/blob/master/src/theme.js) as a starting point to configure your Cabana config. 
+# Roadmap / path forward.
+Now that ADAPT will take over this repo, the following topics should be addressed:
 
-## The Cabana Sketch Library
-
-Cabana-React is the React counterpart of the Cabana Sketch Library. Check out the [Cabana Design System](https://cabanadesignsystem.com) website for a more in-depth rundown of how the design system works, and for access to the library.
-
-## Contributing
-
-If you would like to contribute to `cabana-react` please see our [contributing and community guidelines](./CONTRIBUTING.md), they will help you get set up locally and explain the whole process. (Coming Soon)
-
-## License
-
-Licensed under the MIT License, Copyright © 2018-present Marc Andrew and Lucas Arundell.
+1. *Storybook* - currently there is no documentation for this design system. For Cabana, the idea was to have a separate project that acts like a real-world app that uses the `npm` package... This way the components could be tested in real life. Some discussion have already been had around implementing storybook with this project, or perhaps a documentation site for the ADAPT DS that follows the same concept as above.
+2. Consider if the move to *Emotion* instead of styled-components makes sense
+3. Consider the *lint rules* and if they can / should be aligned with ADAPT standards
+4. Consider where/how the `npm` package should be published so our projects can use the ADAPT Design System.
+5. Establish a governance model for how we'll handle component development between design and dev
+6. Establish a workflow for tickets (Jira, Trello etc)
